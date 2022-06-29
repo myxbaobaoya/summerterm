@@ -1,0 +1,6 @@
+
+Haemophilus parainfluenzae is a species of Haemophilus.
+It is one of the HACEK organisms.
+H. parainfluenzae is an opportunistic pathogen that has been associated with endocarditis, bronchitis, otitis, conjunctivitis, pneumonia, abscesses and genital tract infections.
+H. parainfluenzae biotypes I and II are capable of natural genetic transformation.  Natural genetic transformation is a bacterial adaptation for DNA transfer.  In order for a bacterium to bind, take up and recombine exogenous DNA into its genome it must enter a special physiological state termed natural competence.  In H. parainfluenzae, competence is induced during the late stationary phase of growth.  Natural DNA transformation may play a major role in the exchange of genetic information among H. parainfluenzae isolates.
+This Gammaproteobacteriarelated article is a stub. You can help Wikipedia by expanding it.

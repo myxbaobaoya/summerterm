@@ -1,0 +1,35 @@
+
+Rubella virus RuV is the pathogenic agent of the disease rubella transmitted only between humans via the respiratory route and is the main cause of congenital rubella syndrome when infection occurs during the first weeks of pregnancy
+Rubella virus scientific name Rubivirus rubellae is a member of the genus Rubivirus and belongs to the family of Matonaviridae whose members commonly have a genome of singlestranded RNA of positive polarity which is enclosed by an icosahedral capsid
+As of update the molecular basis for the causation of congenital rubella syndrome was not yet completely clear but in vitro studies with cell lines showed that rubella virus has an apoptotic effect on certain cell types There is evidence for a pdependent mechanism
+Rubella virus Rubivirus rubellae is assigned to the Rubivirus genus
+Until  Rubiviruses were classified as part of the family Togaviridae but have since been changed to be the sole genus of the family Matonaviridae This family is named after George de Maton who in  first distinguished rubella from measles and scarlet fever The change was made by the International Committee on the Taxonomy of Viruses ICTV the central governing body for viral classification Matonaviridae remains part of the realm that it was already in as Togaviridae Riboviria because of its RNA genome and RNA dependent RNA polymerase
+In  Ruhugu virus and Rustrela virus joined  Rubella virus as second and third of only three members of the genus Rubivirus Neither of them are known to infect people
+While alphavirus virions are spherical and contain an icosahedral nucleocapsid RuV virions are pleiomorphic and do not contain icosahedral nucleocapsids
+
+ICTV analyzed the sequence of RuV and compared its phylogeny to that of togaviruses They concludedPhylogenetic analysis of the RNAdependent RNA polymerase of alphaviruses rubella virus and other positivesense RNA viruses shows the two genera within the Togaviridae are not monophyletic In particular rubella virus groups more closely with members of the families Benyviridae Hepeviridae and Alphatetraviridae along with several unclassified viruses than it does with members of the family Togaviridae belonging to the genus Alphavirus The spherical virus particles virions of Matonaviridae have a diameter of  to  nm and are covered by a lipid membrane viral envelope derived from the host cell membrane There are prominent "spikes" projections of  nm  composed of the viral envelope proteins E and E embedded in the membrane
+The E glycoprotein is considered immunodominant in the humoral response induced against the structural proteins and contains both neutralizing and hemagglutinating determinants
+
+Inside the lipid envelope is a capsid of  nm in diameter The capsid protein CP has different functions Its main tasks are the formation of homooligomeres to form the capsid and the binding of the genomic RNA Further is it responsible for the aggregation of RNA in the capsid it interacts with the membrane proteins E and E and binds the human hostprotein p which is important for replication of the virus in the host
+As opposed to alphaviruses the capsid does not undergo autoproteolysis rather is it cut off from the rest of the polyprotein by the signalpeptidase Production of the capsid happens at the surface of intracellular membranes simultaneously with the budding of the virus
+The genome has  nucleotides and encodes  nonstructural polypeptides p and p within its ′terminal twothirds and  structural polypeptides C E and E within its ′terminal onethird 
+Both envelope proteins E and E are glycosylated
+There are three sites that are highly conserved in Matonaviruses a stemandloop structure at the  end of the genome a nucleotide conserved sequence near the  end of the genome and a nucleotide conserved sequence at the subgenomic RNA start site Homologous sequences are present in the rubella genome
+The genome encodes several noncoding RNA structures among them is the rubella virus  cisacting element which contains multiple stemloops one of which has been found to be essential for viral replication
+The only significant region of homology between rubella and the alphaviruses is located at the NH terminus of non structural protein  This sequence has helicase and replicase activity In the rubella genome these occur in the opposite orientation to that found in the alphaviruses indicating that a genome rearrangement has occurred
+The genome has the highest GC content of any currently known single stranded RNA virus  Despite this high GC content its codon use is similar to that of its human host
+The viruses attach to the cell surface via specific receptors and are taken up by an endosome being formed At the neutral pH outside of the cell the E envelope protein covers the E protein The dropping pH inside the endosome frees the outer domain of E and causes the fusion of the viral envelope with the endosomal membrane Thus the capsid reaches the cytosol decays and releases the genome
+The ssRNA positive singlestranded RNA at first only acts as a template for the translation of the nonstructural proteins which are synthesized as a large polyprotein and are then cut into single proteins The sequences for the structural proteins are first replicated by the viral RNA polymerase Replicase via a complementary ssRNA as a template and translated as a separate short mRNA This short subgenomic RNA is additionally packed in a virion
+Translation of the structural proteins produces a large polypeptide  Dalton This is then endoproteolytically cut into E E and the capsid protein E and E are type I transmembrane proteins which are transported into the endoplasmatic reticulum ER with the help of an Nterminal signal sequence From the ER the heterodimeric E·Ecomplex reaches the Golgi apparatus where the budding of new virions occurs unlike alpha viruses where budding occurs at the plasma membrane
+The capsid proteins on the other hand stay in the cytoplasm and interact with the genomic RNA together forming the capsid
+
+RuV is transmitted via respiration between humans
+On the basis of differences in the sequence of the E protein two genotypes have been described which differ by    These have been subdivided into  recognised genotypes  a B C D E F G h i j A B and C
+For typing the WHO recommends a minimum window that includes nucleotides  to 
+Genotypes a E F A and B have been isolated in China
+Genotype j has only been isolated from Japan and the Philippines
+Genotype E is found in Africa the Americas Asia and Europe
+Genotype G has been isolated in Belarus Cote dIvoire and Uganda
+Genotype C is endemic only in Central and South America
+Genotype B has been isolated in South Africa
+Genotype C has been isolated in Russia

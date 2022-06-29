@@ -1,0 +1,17 @@
+
+H. aegyptius
+H. ducreyi
+H. felis
+H. haemoglobinophilus
+H. haemolyticus
+H. influenzae
+H. parainfluenzae
+H. paracuniculus
+H. parahaemolyticus 
+H. paraphrohaemolyticus 
+H. pittmaniae 
+H. piscium
+H. sputorum
+Haemophilus is a genus of Gramnegative, pleomorphic, coccobacilli bacteria belonging to the family Pasteurellaceae. While Haemophilus bacteria are typically small coccobacilli, they are categorized as pleomorphic bacteria because of the wide range of shapes they occasionally assume. These organisms inhabit the mucous membranes of the upper respiratory tract, mouth, vagina, and intestinal tract. The genus includes commensal organisms along with some significant pathogenic species such as H. influenzaea cause of sepsis and bacterial meningitis in young childrenand H. ducreyi, the causative agent of chancroid. All members are either aerobic or facultatively anaerobic. This genus has been found to be part of the salivary microbiome.
+Members of the genus Haemophilus will not grow on blood agar plates, as all species require at least one of these blood factors for growth: hemin Xfactor andor nicotinamide adenine dinucleotide Vfactor. They are unable to synthesize important parts of the cytochrome system needed for respiration, and they obtain these substances from the heme fraction, known as the X factor, of blood hemoglobin. The culture medium must also supply the cofactor nicotinamide adenine dinucleotide from either NAD or NADP, which is known as the V factor. Clinical laboratories use tests for the requirement of the X and V factors to identify the isolates as Haemophilus species.
+Chocolate agar is an excellent Haemophilus growth medium, as it allows for increased accessibility to these factors. Alternatively, Haemophilus is sometimes cultured using the "Staph streak" technique: both Staphylococcus and Haemophilus organisms are cultured together on a single blood agar plate. In this case, Haemophilus colonies will frequently grow in small "satellite" colonies around the larger Staphylococcus colonies because the metabolism of Staphylococcus produces the necessary blood factor byproducts required for Haemophilus growth.

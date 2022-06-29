@@ -1,0 +1,15 @@
+
+G. asaccharolytic
+G. bergeri
+G. cuniculi
+G. haemolysans
+G. morbillorum
+G. palaticanis
+G. parahaemolysans
+G. sanguinis
+G. taiwanensis
+Gemella is a genus of Grampositive bacteria that thrive best at high partial pressure of CO.
+A Gemella species was first described as Neisseria hemolysans in . It was reclassified as a new genus in  when strains were found to be distinct enough from Neisseria to require a new genus. The name was suggested based on the organism being a diplococcus and gemellus is the diminutive of geminus, which is Latin for twin. They are facultatively anaerobic and give negative reactions to both oxidase and catalase tests. They are obligately fermentative, producing either a mixture of acetic and lactic acids or an equimolar molar mixture of acetic acid and CO. For example, G. haemolysans ferments glucose forming a mixture of acetic and lactic acids in the absence of oxygen, whereas when oxygen is present, it forms acetic acid and CO.
+Gemella bacteria are primarily found in the mucous membranes of humans and other animals, particularly in the oral cavity and upper digestive tract. Gemella haemolysans has been found to be involved in pulmonary exacerbations of cystic fibrosis patients. As of the year  it had been reported in  cases of human endocarditis, mainly in men with underlying valvular disease andor poor dentition or dental manipulation. Most cases were treated with a combination of penicillin and gentamicin with a favorable outcome. Additionally, Gemella asaccharolytica in bacterial vaginosis is associated with increase risk of HIV infection in unprotected sex.
+
+This Bacillotarelated article is a stub. You can help Wikipedia by expanding it.

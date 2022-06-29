@@ -1,0 +1,34 @@
+
+Bacteroides dorei is a species of bacteria within the genus Bacteroides, first isolated in . It is found in the intestinal systems of humans and animals. Research is being conducted to better understand the relationship Bacteroides dorei has on the human intestinal system and the autoimmune disease, Type  Diabetes TD.
+Bacteroides dorei is an gram negative, rodshaped bacteria that contributes to normal intestinal functionality. It was isolated and differentiated from Bacteroides vulgatus by using S rRNA sequencing and phenotypic tests. B. dorei is a nonsporeforming, nonmotile, and anaerobic bacterium with a DNA GC content of . Growth occurs optimally at  °C with individual cell size between .. μm by .. μm. In addition, colonies streaked on Eggerth Gagnon EG agar with  horse blood plate and incubated over  hours in  CO gas at  °C, resulted in colony size of . mm and individual colony morphology of circular, white, raised, and convexed.
+B. dorei T JCM T AB
+B. dorei  JCM  AB
+B. vulgatus ATCC T M
+B. massiliensis CCUG T AY
+B. coprocola JCM T AB
+B. plebeius JCM T AB
+B. helcogenes JCM T AB
+B.eggerthii NCTC T L
+B. stercoris ATCC T X
+B. uniformis ATCC T L
+B. intestinalis JCM T AB
+B. nordii ATCC BAAT AY
+B. salyersiae ATCC BAAT AY
+B. fragilis ATCC T M
+B.thetaiotaomicron ATCC T L
+B.finegoldii JCM T AB
+B.ovatus NCTC T L
+B. acidifaciens JCM T AB
+B. caccae ATCC T XB
+B. tectus JCM T AB
+B. pyogenes JCM T AB
+B. denticanum B AF
+B. coprosuis CCUG T AF
+B. merdae ATCC T X
+B. distasonis ATCC T M
+B. capillosus ATCC T AY
+B. cellulosolvens ATCC T L
+Provotella melaninogenica ATCC T AY
+Bacteroides dorei has been tested for numerous different metabolic test looking at different sugars. Growth of cells was seen via production of acid occurred on the following sugars: glucose, sucrose, xylose, rhamnose, lactose, maltose, arabinose, mannose and raffinose while no growth and no acid production occurred on the following sugars: cellobiose, salicin, trehalose, mannitol, glycerol, melezitose and sorbitol.
+Previous research has shown that individuals who are genetically predisposition to various autoimmune diseases have significant differences in bacteria composition than nongenetically predisposition individuals. This difference in bacteria composition in the gut system is increasingly believed to be highly important in understanding autoimmune diseases such as Type Diabetes. In , researchers looked at the early development of bacterial composition in high genetic risk children looking at early onset of Type  Diabetes. They took stool samples of  children looking at the early development of microbial communities from – months of age until . year old. Out of the  infants,  seroconverted to TD autoimmune related cases, of which of  later on developed TD cases. The other  infants didn't seroconvert or develop TD  control. Metagenomic sequencing results showed significantly higher composition of B. dorei and Bacteroides vulgatus in the cases versus the control group prior to seroconversion. In addition, data showed that B. dorei peaked at . months, almost  months prior to first inslet autoantibody in cases. This significant compositional change suggests that the increase in amount of B. dorei is a potential indicator of the development of TD.
+Additional research looked at epigenetics of B. dorei and were able to demonstrate that  individual had B. dorei with GATC gene methylation while another individual had B. dorei lacking GATC methylation. Scientist took stool samples of two babies and sequenced the genomes of B. dorei in samples  and . Sample B. dorei  had , total methylation in the genome with , methylation sites and in sample B. dorei , there was , total methylations with , methylation sites. The key result is that sample  includes a key gene called DamMT DNA methyltransferase while sample  lacked this gene. In addition, out of , GATC sites in sample B. dorei , there was only had  sites that weren't methylated whereas sample B. dorei  had , GATC sites and none of the GATC sites were methylated. Dam methylation and methylation of GATC could be significant factors for microbial colonization and functionality in the gut system and affects numerous gene expressions of transport processes such as nutrient transportation, antibiotic effluxes actions to antibiotic resistance, and movement of energy. The results suggests that Dam and GATC methylation of B. dorei  could have highly significant varied gene expression from B. dorei  that lacks GATC methylation and could affect functionality of B. dorei in the gut microbiome. Previous research has shown that Dam methylation mutants have increased susceptibility to higher antibiotic concentrations and lower minimum. This suggests that Dam methylation process plays a significant role in upregulation of antibiotic effluxes, resulting in increased antibiotic resistance. Also, GATC methylation demonstrates important microbial functions such as DNA repair, replication, and LPS composition. Methylation of GATC motif by DamMT in pathogenic bacteria, for example, Vibrio cholerae, Yersinia pestis, and Yersinia pseudotuberculosis  has been shown to increase virulence and expression of genes towards multiple operations such as, mismatch repair and DNA replication enables pathogenic bacteria to combat against antibiotics. These results show why future research to create antibiotics that prevent the creation of DamMT in pathogenetic bacteria is needed.

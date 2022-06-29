@@ -1,0 +1,22 @@
+
+Veillonella are Gramnegative bacteria Gram stain pink anaerobic cocci, unlike most Bacillota, which are Grampositive bacteria. This bacterium is well known for its lactate fermenting abilities. It is a normal bacterium in the intestines and oral mucosa of mammals. In humans they have been implicated in cases of osteomyelitis and endocarditis, for example with the species Veillonella parvula.
+Veillonella dispar is the most nitratereducing bacterium in the oral cavity, which is beneficially antibacterial.
+Lactate is fermented to propionate and acetate by the methylmalonylCoA pathway. Little ATP is produced in this fermentation. High substrate affinity is suggested to be the reason.
+ Lactate → acetate   propionate  CO HO
+A study of Veillonella in endurance athletes found that a relative abundance of the bacteria in the gut is associated with increased treadmill run time performance. This effect was demonstrated to be due to the organism's propionate metabolite produced from lactic acid.
+The currently accepted taxonomy is based on the List of Prokaryotic names with Standing in Nomenclature LPSN  and National Center for Biotechnology Information NCBI
+and the phylogeny is based on S rRNAbased LTP release  by The AllSpecies Living Tree Project
+?V. tobetsuensis Mashima et al. in press
+V. magna Kraatz and Taras 
+V. criceti Rogosa  Mays et al. 
+V. ratti Rogosa  Mays et al.  emend. Kraatz and Taras 
+V. montpellierensis JumasBilak et al. 
+V. caviae Mays et al. 
+V. dispar Rogosa  Mays et al. 
+V. parvula Veillon and Zuber  Prévot  Mays et al.  type sp.
+V. rogosae Arif et al. 
+V. atypica Rogosa  Mays et al. 
+V. denticariosi Byun et al. 
+V. rodentium Rogosa  Mays et al. 
+
+This Bacillotarelated article is a stub. You can help Wikipedia by expanding it.
